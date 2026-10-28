@@ -2,7 +2,7 @@ package atividadeColecoesFramework.q01;
 
 import java.util.HashMap;
 
-public class App {
+public class q14 {
     public static void main(String[] args) {
 
         HashMap<String, Pessoa> pessoas = new HashMap<>();

@@ -26,7 +26,7 @@ public class q15 {
 
         dias.replace(6, "Sábado");
 
-        
+
         System.out.println("\nA chave 6 existe? " + dias.containsKey(6));
     }
 }

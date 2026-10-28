@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5204e7de-1cb4-473c-8b63-445fa28a9ec4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidade-two/src/Lambdas/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidade-two/src/Lambdas/ComparadorDePreco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidade-two/src/Lambdas/FiltroProduto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidade-two/src/Lambdas/FiltroProdutoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidade-two/src/exemplosInterface/ContaBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidade-two/src/exemplosInterface/MinhaExceptionPersonalizada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidade-two/src/exemplosInterface/NaoPodeDividirPorZeroException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidade-two/src/quarta07/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidade-two/src/quarta07/Byd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidade-two/src/quarta07/Ferrari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidade-two/src/quarta07/Fusca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidade-two/src/quarta07/MiniDolphin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidade-two/src/quarta07/Veiculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidade-two/src/quarta07/VeiculoAcombustao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidade-two/src/quarta07/VeiculoEletrico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidade-two/src/quarta07/VeiculoGenerico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidade-two/src/staticc/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unidade-two/src/staticc/Calculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unidade-two/src/atividadeColecoesFramework/q01/q14.java" beforeDir="false" afterPath="$PROJECT_DIR$/Unidade-two/src/atividadeColecoesFramework/q01/q14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unidade-two/src/atividadeColecoesFramework/q01/q15.java" beforeDir="false" afterPath="$PROJECT_DIR$/Unidade-two/src/atividadeColecoesFramework/q01/q15.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Exception" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;miguelzxr&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/miguelzxr/atvd-colecoes.git&quot;,
+    &quot;accountId&quot;: &quot;e332c915-b016-458e-9f25-f0e53e30d69a&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3Jhd5iZaNICmpygaMXTMT95Fbx3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AppPessoaQ1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ContaBancaria.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExemploIterator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExemploScannerList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExemplosList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.q06.executor&quot;: &quot;Run&quot;,
+    &quot;Application.q07.executor&quot;: &quot;Run&quot;,
+    &quot;Application.q08.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/migue/Documents/Unidade-II&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10315.125" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10315.125" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5204e7de-1cb4-473c-8b63-445fa28a9ec4" name="Changes" comment="" />
+      <created>1790117139467</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790117139467</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Unidade-two/src/exemplosInterface/ContaBancaria.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="exemplosInterface.NaoPodeDividirPorZeroException" package="exemplosInterface" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
